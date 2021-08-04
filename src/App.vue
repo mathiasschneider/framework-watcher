@@ -3,7 +3,15 @@
     <div id="nav">
       <router-link to="/">Home</router-link>
       |
-      <router-link to="/about">About</router-link>
+      <router-link to="/vue">Vue</router-link>
+      |
+      <router-link to="/angular">Angular</router-link>
+      |
+      <router-link to="/ember">Ember</router-link>
+      |
+      <router-link to="/svelte">Svelte</router-link>
+      |
+      <router-link to="/react">React</router-link>
     </div>
     <router-view />
   </div>
